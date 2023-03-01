@@ -37,3 +37,6 @@ Next, create a database.json file inside a server folder with the following obje
 {    
     "rules": []
 }
+
+
+json-server --watch database.json
